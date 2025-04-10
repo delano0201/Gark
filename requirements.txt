@@ -1,0 +1,8 @@
+discord.py
+transformers
+torch
+pillow
+requests
+numpy
+nudity-detector
+
